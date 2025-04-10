@@ -1,0 +1,10 @@
+# ---------------------------------
+# Swift Packages
+# ---------------------------------
+
+# packages:
+
+   ### Third Party
+   #{library_name}:
+   #   url: https://github.com/{library_github}
+   #   exactVersion: {library_version}

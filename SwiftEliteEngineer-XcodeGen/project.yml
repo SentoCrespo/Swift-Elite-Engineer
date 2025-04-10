@@ -1,0 +1,51 @@
+# ---------------------------------
+# Main XcodeGen project file
+# ---------------------------------
+
+## Include XcodeGen project files
+include: 
+   
+  ### Main Target
+  - path: XcodeGen/project-App.yml
+    relativePaths: false
+
+  - path: XcodeGen/project-App-Tests.yml
+    relativePaths: false
+
+  ### Dependencies
+  - path: XcodeGen/project-Packages.yml
+    relativePaths: false
+   
+## Global project definition 
+name: SwiftEliteEngineer-XcodeGen
+options:
+  usesTabs: false
+  indentWidth: 4
+  deploymentTarget:
+    iOS: 18.0
+  groupSortPosition: bottom
+  generateEmptyDirectories: false
+
+## Global settings 
+settings:
+  base:
+    SWIFT_VERSION: 6
+    SUPPORTED_PLATFORMS: "iphoneos iphonesimulator"
+    TARGETED_DEVICE_FAMILY: 1
+    SDKROOT: iphoneos
+    GENERATE_INFOPLIST_FILE: YES
+    CURRENT_PROJECT_VERSION: 1
+    MARKETING_VERSION: 1.0
+    
+  ### Specific settings
+  configs:
+    Debug:
+      ONLY_ACTIVE_ARCH: YES
+      GCC_OPTIMIZATION_LEVEL: 0
+      SWIFT_OPTIMIZATION_LEVEL: -Onone
+      ENABLE_TESTABILITY: YES
+
+    Release:
+      ONLY_ACTIVE_ARCH: NO
+      SWIFT_COMPILATION_MODE: wholemodule
+

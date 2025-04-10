@@ -1,0 +1,44 @@
+# ---------------------------------
+# Project target
+# ---------------------------------
+
+targets:
+  SwiftEliteEngineer-XcodeGen:
+    ## Scheme
+    scheme:
+      testTargets:
+        - SwiftEliteEngineer-XcodeGenTests
+      gatherCoverageData: true
+    ## Properties
+    type: application
+    platform: [iOS]
+    platformSuffix: ''
+    ## Sources
+    sources: 
+      ### Target files
+      - path: SwiftEliteEngineer-XcodeGen  
+    ## Settings
+    settings:
+      base:
+        SDKROOT: iphoneos
+        PRODUCT_NAME: SwiftEliteEngineer-XcodeGen
+        PRODUCT_BUNDLE_IDENTIFIER: com.sento.SwiftEliteEngineer-XcodeGenswift
+        CLANG_ENABLE_MODULES: YES
+
+      ### Specific settings
+      configs:
+        Debug:
+          ENABLE_TESTABILITY: YES
+          OTHER_SWIFT_FLAGS: "$(inherited) -D DEBUG"
+          DEVELOPMENT_ASSET_PATHS: "SwiftEliteEngineer-XcodeGen/PreviewContent"
+          
+    ## Pre-build scripts phase
+
+    ## Post-build scripts phase
+      
+    ## Dependencies
+    dependencies:
+      ### iOS SDKs
+      - sdk: Foundation.framework
+      - sdk: SwiftUI.framework         
+      ### Swift Package Manager

@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "6FD31210-75C4-4CD0-8B6A-01A1FE55B515",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "5-SwiftTestingTests",
+        "name" : "5-SwiftTestingTests"
+      }
+    }
+  ],
+  "version" : 1
+}
