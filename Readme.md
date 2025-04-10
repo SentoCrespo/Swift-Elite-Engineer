@@ -1,6 +1,6 @@
 # SWIFT ELITE ENGINEER
 
-[🇪🇸 Lee esto en español →](Docs/README-es.md)
+[🇪🇸 Lee esto en español →](./Docs/Readme-es.md)
 
 ![Swift](https://img.shields.io/badge/Swift-6.1-orange)
 ![Xcode](https://img.shields.io/badge/Xcode-16.3-blue)
