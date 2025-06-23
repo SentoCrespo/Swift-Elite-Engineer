@@ -27,23 +27,51 @@ By **Sento C. Penadés**
 
 ## 📚 About the Book
 
-**Swift Elite Engineer** is a deep, hands-on guide for professionals ready to take their Swift skills to the next level. You'll learn how to:
+**Swift Elite Engineer** is a deep, hands-on guide for professionals ready to take their Swift skills to the next level. This book is your direct access to **best practices in Swift development** for **iOS, iPadOS, macOS, tvOS, watchOS, VisionOS**, and more—covering everything from the foundations of advanced architecture to the most sophisticated automation and testing strategies.
 
-- Design robust, scalable app architectures from the ground up.
-- Write clean, testable, and production-quality code.
-- Use **XcodeGen**, **Sourcery**, **Fastlane**, and **Swift Package Manager** like a pro.
-- Refactor legacy code into modular components that are easy to maintain.
-- Master modern testing strategies and Apple's new testing framework.
-- Integrate AI tools into your workflow to build better apps, faster.
+**Learn how to avoid the most common mistakes** and optimize your workflow with cutting-edge technology.
 
-> Whether you're an experienced developer or aspiring senior engineer, this book will elevate your engineering mindset and practices.
+With over **11 years of experience leading high-performance teams**, I won’t just teach you code, I’ll show you how to build **robust, secure apps with unstoppable performance**.
 
-**Available now in:**
+**Artificial Intelligence, Cybersecurity, and Workflow Automation** are now within your reach to completely transform the way you develop.
+
+If your goal is to **fully master Apple ecosystem software development**, this book is your guide to achieving it.
+
+> **Unleash your potential!  
+> Make a difference in every project!**
+
+---
+
+### What You’ll Find in This Book
+
+1. **Unleash Your Potential: Legend Level**
+2. **The Compass That Guides You**
+3. **Typical Mistakes in Your Projects (and How to Avoid Them)**
+4. **World-Class Foundations**
+5. **Bulletproof Testing**
+6. **Superpower: Automate and Optimize**
+7. **The Secret Formula for Immortal Apps**
+8. **Hacked in 3, 2, 1… Cybersecurity**
+9. **Artificial Intelligence #1**
+10. **The Other 50%: Soft Skills**
+11. **The Grand Finale**
+12. **Offboarding**
+
+---
+
+I’ve trained dozens of developers who now lead technical teams at top-tier companies.  
+This book captures **everything I wish I had known when I was starting out**.
+
+It’s not just a book—  
+it’s a **hands-on guide to becoming a legend**.
+
+
+## 💻 Available now in:
 
 - 📘 Paperback (Spanish edition)  
-[Buy it on Amazon →](https://www.amazon.es/dp/TODO)
+[Buy it on Amazon →](https://www.amazon.es/dp/8409733153)
 
-**💻 English & Digital Editions coming soon!**
+**English & Digital Editions coming soon!**
 
 ---
 

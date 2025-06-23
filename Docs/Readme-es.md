@@ -27,23 +27,39 @@ Por **Sento C. Penadés**
 
 ## 📚 Sobre el libro
 
-**Swift Elite Engineer** es una guía extensa y práctica para profesionales que quieren llevar sus habilidades en Swift al siguiente nivel. Aprenderás a:
+**Swift Elite Engineer** es una guía extensa y práctica para profesionales que quieren llevar sus habilidades en Swift al siguiente nivel. Este libro es tu acceso directo a las **mejores prácticas de desarrollo Swift** para **iOS, iPadOS, macOS, tvOS, watchOS, VisionOS**, cubriendo desde los cimientos de arquitectura avanzada hasta las estrategias más sofisticadas de automatización y testing.
 
-- Diseñar arquitecturas sólidas y escalables desde cero.
-- Escribir código limpio, testeable y de calidad profesional.
-- Utilizar **XcodeGen**, **Sourcery**, **Fastlane** y **Swift Package Manager** como un experto.
-- Refactorizar código legacy hacia componentes modulares y mantenibles.
-- Dominar estrategias modernas de testing y el nuevo framework de pruebas de Apple.
-- Integrar herramientas de IA para desarrollar mejores apps, más rápido.
+**Aprende a evitar los errores más comunes** y optimizar tu proceso de trabajo con tecnología de vanguardia.
 
-> Si ya te dedicas al desarrollado o estás en camino a convertirte en senior o architect, este libro te dará las herramientas para destacar.
+Con más de **11 años de experiencia liderando equipos de alto rendimiento**, no solo te enseño código, te muestro cómo construir **aplicaciones robustas, seguras y con un rendimiento imparable**.
 
-**Ya disponible en:**
+La **inteligencia artificial, la ciberseguridad y la automatización** de tus flujos de trabajo están a tu alcance para transformar por completo tu forma de desarrollar.
+
+Si aspiras a **dominar por completo el desarrollo de software del ecosistema Apple**, este libro es tu guía para lograrlo.
+
+> **¡Desata tu potencial!  
+> ¡Marca la diferencia en cada proyecto!**
+
+---
+
+### Qué vas a encontrar en este libro
+
+1. **Desata tu potencial: Nivel leyenda**
+2. **La brújula que te guía**
+3. **Errores típicos en tus proyectos (y cómo evitarlos)**
+4. **Cimientos de clase mundial**
+5. **Testing a prueba de balas**
+6. **Superpoder: Automatiza y optimiza**
+7. **La fórmula secreta para Apps inmortales**
+8. **Hackeado en**
+
+
+## 💻 Ya disponible en:
 
 - 📘 Edición en papel (en español)  
-[Consíguelo en Amazon →](https://www.amazon.com/dp/TODO)
+[Consíguelo en Amazon →](https://www.amazon.es/dp/8409733153)
 
-**💻 Ediciones digital y en inglés muy pronto.**
+**Ediciones digital y en inglés muy pronto.**
 
 ---
 
