@@ -56,10 +56,13 @@ Si aspiras a **dominar por completo el desarrollo de software del ecosistema App
 
 ## 💻 Ya disponible en:
 
-- 📘 Edición en papel (en español)  
+- 📘 Edición Paperback (🇪🇸 Español)  
 [Consíguelo en Amazon →](https://www.amazon.es/dp/8409733153)
 
-**Ediciones digital y en inglés muy pronto.**
+- 📘 Edición Paperback (🇬🇧/🇺🇸 Inglés)  
+[Consíguelo en Amazon →](https://www.amazon.es/dp/8409750252)
+
+**Ediciones digitales muy pronto.**
 
 ---
 

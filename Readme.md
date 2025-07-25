@@ -68,10 +68,13 @@ it’s a **hands-on guide to becoming a legend**.
 
 ## 💻 Available now in:
 
-- 📘 Paperback (Spanish edition)  
+- 📘 Paperback (🇬🇧/🇺🇸 English edition)  
+[Buy it on Amazon →](https://www.amazon.es/dp/8409750252)
+
+- 📘 Paperback (🇪🇸 Spanish edition)  
 [Buy it on Amazon →](https://www.amazon.es/dp/8409733153)
 
-**English & Digital Editions coming soon!**
+**Digital Editions coming soon!**
 
 ---
 
